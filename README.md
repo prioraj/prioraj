@@ -1,8 +1,8 @@
 <!-- Banner -->
 ![banner](assets/banner.png)
 
-# Hi, I'm YOUR-NAME 👋
-CSE Student • Web Designer & Creator • Software Engineer • AI & ML Explorer
+# Prioraj 👽
+Computer Science Engineer • Web Designer & Creator • Software Engineer • AI & ML Explorer
 
 ---
 
