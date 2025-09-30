@@ -68,17 +68,17 @@
 
 ---
 
-<p align="center">
-  <a href="https://facebook.com/YOUR-FACEBOOK">
-    <img alt="Facebook" height="28" src="https://cdn.simpleicons.org/facebook/6E2CF4" />
+<p align="center" style="margin-top: 8px;">
+  <a href="https://facebook.com/YOUR-FACEBOOK" style="text-decoration:none;">
+    <img alt="Facebook" height="28" src="https://cdn.simpleicons.org/facebook/6E2CF4" style="margin-right:14px;" />
   </a>
-  <a href="https://discord.com/users/YOUR-DISCORD">
-    <img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord/6E2CF4" />
+  <a href="https://discord.com/users/YOUR-DISCORD" style="text-decoration:none;">
+    <img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord/6E2CF4" style="margin-right:14px;" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM">
-    <img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/6E2CF4" />
+  <a href="https://instagram.com/YOUR-INSTAGRAM" style="text-decoration:none;">
+    <img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/6E2CF4" style="margin-right:14px;" />
   </a>
-  <a href="https://youtube.com/@YOUR-YOUTUBE">
+  <a href="https://youtube.com/@YOUR-YOUTUBE" style="text-decoration:none;">
     <img alt="YouTube" height="28" src="https://cdn.simpleicons.org/youtube/6E2CF4" />
   </a>
 </p>
