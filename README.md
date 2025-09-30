@@ -47,16 +47,16 @@
 ---
 
 <details>
-  <summary>## 🌐 Connect with Me</summary>
+  <summary>🌐 Connect with Me</summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://USERNAME.github.io)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:you@example.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-DISCORD)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/YOUR-YOUTUBE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINK)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://USERNAME.github.io)  
+[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:you@example.com)  
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/YOUR-TWITTER)  
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR-INSTAGRAM)  
+[![Discord](https://img.shields.io/badge/-Discord-000?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR-DISCORD)  
+[![Facebook](https://img.shields.io/badge/-Facebook-000?style=flat-square&logo=facebook&logoColor=1877F2)](https://facebook.com/YOUR-FACEBOOK)  
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/c/YOUR-YOUTUBE)
 
 </details>
 
