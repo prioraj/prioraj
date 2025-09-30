@@ -68,22 +68,18 @@
 
 ---
 
-<!-- Minimal icon row (aesthetic, like your screenshot). Pick one of the two rows below. -->
-
-<!-- Option 1: Simple Icons (monochrome). Change ff477e to your brand color. -->
 <p align="center">
-  <a href="https://facebook.com/YOUR-FACEBOOK"><img alt="Facebook" height="28" src="https://cdn.simpleicons.org/facebook/ff477e" /></a>
-  <a href="https://discord.com/users/YOUR-DISCORD"><img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord/ff477e" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/ff477e" /></a>
-  <a href="https://youtube.com/@YOUR-YOUTUBE"><img alt="YouTube" height="28" src="https://cdn.simpleicons.org/youtube/ff477e" /></a>
+  <a href="https://facebook.com/YOUR-FACEBOOK">
+    <img alt="Facebook" height="28" src="https://cdn.simpleicons.org/facebook/6E2CF4" />
+  </a>
+  <a href="https://discord.com/users/YOUR-DISCORD">
+    <img alt="Discord" height="28" src="https://cdn.simpleicons.org/discord/6E2CF4" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM">
+    <img alt="Instagram" height="28" src="https://cdn.simpleicons.org/instagram/6E2CF4" />
+  </a>
+  <a href="https://youtube.com/@YOUR-YOUTUBE">
+    <img alt="YouTube" height="28" src="https://cdn.simpleicons.org/youtube/6E2CF4" />
+  </a>
 </p>
 
-<!-- Option 2: Badges (text labels). Uncomment if you prefer labeled badges. -->
-<!--
-<p align="center">
-  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-ff477e?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.com/users/YOUR-DISCORD"><img src="https://img.shields.io/badge/Discord-ff477e?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-ff477e?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@YOUR-YOUTUBE"><img src="https://img.shields.io/badge/YouTube-ff477e?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
--->
