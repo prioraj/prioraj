@@ -33,12 +33,11 @@
 ---
 
 <details>
-  <summary># 🎯 Hobbies & Fun</summary>
+  <summary>🎯 Hobbies & Fun</summary>
 
 - Gaming 🎮  
 - Drawing & Art 🎨  
-- Anime 🌸  
-- Music 🎵  
+- Anime 🌸   
 - Guitar 🎸  
 - Photography 📸  
 - Plants & Gardening 🌱
@@ -47,7 +46,17 @@
 
 ---
 
-## 🌐 Connect
+<details>
+  <summary>## 🌐 Connect with Me</summary>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://USERNAME.github.io)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:you@example.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-DISCORD)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/YOUR-YOUTUBE)
+
+</details>
+
