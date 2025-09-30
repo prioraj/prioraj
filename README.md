@@ -14,13 +14,13 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:you@example.com">
+  <a href="mailto:you@example.com" style="text-decoration:none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
