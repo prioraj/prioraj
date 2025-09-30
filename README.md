@@ -1,8 +1,8 @@
 <!-- Banner -->
 ![banner](assets/banner.png)
 
-# Prioraj 👽
-Computer Science Engineer • Web Designer & Creator • Software Engineer • AI & ML Explorer
+# Prioraj 💀
+🎓 CSE Student • 💻 Software Engineer • 🌐 Web Designer & Creator • 🤖 AI/ML Explorer • 🎨 Artist • 🎮 Gamer
 
 ---
 
