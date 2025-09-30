@@ -68,19 +68,26 @@
 
 ---
 
-<!-- Social icons - block anchors to avoid markdown underlines -->
+<!-- SOCIAL: isolated HTML block to prevent markdown underlines -->
 <div align="center">
-  <a href="https://facebook.com/YOUR-FACEBOOK" title="Facebook" style="display:inline-block; margin:0 10px;">
+
+  <!-- Each anchor is inline-block with margin for spacing -->
+  <a href="https://facebook.com/YOUR-FACEBOOK" title="Facebook" style="display:inline-block; margin: 0 12px;">
     <img alt="Facebook" width="32" height="32" src="https://cdn.simpleicons.org/facebook/6E2CF4" />
   </a>
-  <a href="https://discord.com/users/YOUR-DISCORD" title="Discord" style="display:inline-block; margin:0 10px;">
+
+  <a href="https://discord.com/users/YOUR-DISCORD" title="Discord" style="display:inline-block; margin: 0 12px;">
     <img alt="Discord" width="32" height="32" src="https://cdn.simpleicons.org/discord/6E2CF4" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" title="Instagram" style="display:inline-block; margin:0 10px;">
+
+  <a href="https://instagram.com/YOUR-INSTAGRAM" title="Instagram" style="display:inline-block; margin: 0 12px;">
     <img alt="Instagram" width="32" height="32" src="https://cdn.simpleicons.org/instagram/6E2CF4" />
   </a>
-  <a href="https://youtube.com/@YOUR-YOUTUBE" title="YouTube" style="display:inline-block; margin:0 10px;">
+
+  <a href="https://youtube.com/@YOUR-YOUTUBE" title="YouTube" style="display:inline-block; margin: 0 12px;">
     <img alt="YouTube" width="32" height="32" src="https://cdn.simpleicons.org/youtube/6E2CF4" />
   </a>
+
 </div>
+
 
