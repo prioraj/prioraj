@@ -32,6 +32,16 @@
 
 ---
 
+## 🎯 Hobbies & Fun
+- Gaming 🎮
+- Drawing & Art 🎨
+- Anime 🌸
+- Guitar 🎸
+- Photography 📸
+- Plants & Gardening 🌱
+
+---
+
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://USERNAME.github.io)  
