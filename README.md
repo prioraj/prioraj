@@ -33,7 +33,7 @@
 ---
 
 <details>
-  <summary>🎯 Hobbies & Fun</summary>
+  <summary># 🎯 Hobbies & Fun</summary>
 
 - Gaming 🎮  
 - Drawing & Art 🎨  
