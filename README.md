@@ -21,12 +21,21 @@
 
 ---
 
-### Languages and Tools
+### Languages & Tools
 
+**Languages**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,tensorflow,sklearn,git,vscode,figma" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,python" /></a>
+</p>
+
+**AI / Machine Learning**
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /></a>
+</p>
+
+**Tools & Software**
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,figma" /></a>
 </p>
 
 ---
@@ -34,13 +43,9 @@
 ### My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
+  <a href="https://github.com/USERNAME"><img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" /></a>
   <br><br>
-  <a href="https://github.com/USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/USERNAME"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
 </p>
 
 ---
