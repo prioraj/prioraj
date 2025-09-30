@@ -55,6 +55,8 @@
 
 </details>
 
+---
+
 <details>
   <summary>🌟 Personal Links</summary>
 
@@ -68,10 +70,11 @@
 
 ---
 
-<!-- SOCIAL: isolated HTML block to prevent markdown underlines -->
+<!-- Social icons: isolated HTML block (prevents markdown underline artifacts) -->
+<br>
+
 <div align="center">
 
-  <!-- Each anchor is inline-block with margin for spacing -->
   <a href="https://facebook.com/YOUR-FACEBOOK" title="Facebook" style="display:inline-block; margin: 0 12px;">
     <img alt="Facebook" width="32" height="32" src="https://cdn.simpleicons.org/facebook/6E2CF4" />
   </a>
@@ -90,4 +93,4 @@
 
 </div>
 
-
+<br>
