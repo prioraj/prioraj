@@ -32,13 +32,18 @@
 
 ---
 
-## 🎯 Hobbies & Fun
-- Gaming 🎮
-- Drawing & Art 🎨
-- Anime 🌸
-- Guitar 🎸
-- Photography 📸
+<details>
+  <summary>🎯 Hobbies & Fun</summary>
+
+- Gaming 🎮  
+- Drawing & Art 🎨  
+- Anime 🌸  
+- Music 🎵  
+- Guitar 🎸  
+- Photography 📸  
 - Plants & Gardening 🌱
+
+</details>
 
 ---
 
